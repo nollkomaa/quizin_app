@@ -1,15 +1,19 @@
-QUIZIN
+# QUIZIN
 
-A Mobile-Based Quiz and Learning Application
-QUIZIN is a mobile application designed to provide an interactive learning experience through categorized quizzes, structured question banks, and progressive learning stages. The application aims to help users practice their knowledge, evaluate their understanding, and monitor their learning progress.
+### A Mobile-Based Quiz and Learning Application
 
-1. Project Overview
-QUIZIN organizes learning materials into categories, subcategories, and stages. Users can select a learning topic, complete multiple-choice quizzes, receive their scores, and review their previous attempts.
-The application is developed using Flutter for the mobile interface and Laravel for backend services, with MySQL as the database.
+**QUIZIN** is a mobile-based learning application that enables users to test and strengthen their knowledge through interactive quizzes. The application organizes questions into categories, subcategories, and progressive learning stages, providing users with a structured way to explore topics and assess their understanding.
 
-2. Project Objectives
-Provide an accessible and interactive quiz-based learning platform.
-Organize questions into structured categories and learning stages.
-Allow users to evaluate their knowledge through multiple-choice quizzes.
-Provide automatic score calculation and quiz result tracking.
-Develop an integrated mobile application with a centralized backend and database.
+## Overview
+
+QUIZIN allows users to choose a subject, complete multiple-choice quizzes, and receive automatically calculated scores. Users can also review their quiz results and track their learning history.
+
+The application uses **Flutter** to build the mobile interface and **Laravel** to handle backend services and application logic. **MySQL** serves as the database for managing user information, quiz content, and learning records.
+
+## Objectives
+
+- Provide an interactive platform for knowledge assessment through quizzes.
+- Organize learning materials into structured categories, subcategories, and stages.
+- Enable users to practice and evaluate their understanding of different topics.
+- Automate score calculation and maintain quiz result records.
+- Integrate the mobile application with a centralized backend and database.
